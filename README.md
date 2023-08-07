@@ -1,3 +1,5 @@
+Personal Message: This book was used by me to learn Data Science at Macquarie University. However, I dropped the Data Science major of my degree to pursue the Software Technology instead. I intend to return to this to do the exercises and learn Data Science principles once I have solid fundamentals in graph theory and Python.
+
 # Introduction to Data Science
 ## A Python Approach to Concepts, Techniques and Applications
 
